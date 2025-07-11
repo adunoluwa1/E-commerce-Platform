@@ -31,7 +31,7 @@ This project is a foundational e-commerce platform built in Python, demonstratin
 * **Robust Validation:** Extensive use of property setters, decorators, and custom methods to ensure data integrity and proper system behavior across all classes.
 * **Pandas Integration:** Utilizes `pandas` DataFrames for clear and readable display of product catalogs and cart contents.
 
----
+
 
 ## 🏗️ Architecture
 
@@ -69,7 +69,7 @@ The `Product` class defines the properties and behaviors of individual inventory
 * Creating separate product instances for items in global inventory versus those placed in a customer's cart.
 * Overloading standard Python operators (`+`, `-`, `==`, `!=`) for intuitive product quantity manipulation and comparison.
 
----
+
 
 ## 🚀 How to Run
 
@@ -111,7 +111,7 @@ To get this project up and running on your local machine, follow these steps:
     print("\nThank you for shopping!")
     ```
 
----
+
 
 ## 💡 Future Enhancements
 
